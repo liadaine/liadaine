@@ -22,9 +22,11 @@ Sou apaixonada por tecnologia e movida pela aprendizagem contínua. Acredito em 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript" />
   <img width="8" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="25" alt="figma" />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="25" alt="figma" />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="25" alt="react" />
   <img width="8" />
 </div>
 
